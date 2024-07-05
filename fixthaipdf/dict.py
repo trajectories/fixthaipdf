@@ -15,6 +15,13 @@ See the License for the specific language governing permissions and
 limitations under the License.
 """
 replace_list=[
+    ("ปุย", "ปุ๋ย"),
+    ("ห ์","ห์"),
+    ("สารบาญ", "สารบัญ"),
+    ("ป้จจัย", "ปัจจัย"),
+    ("น�้า", "น้ำ"),
+    ("ู", "ญู"),
+    ("ป้ม","ปั้ม"),
     ("ล ้า","ลํ้า"),
     ("ต ่า","ตํ่า"),
     ("ค ่า","คํ่า"),
